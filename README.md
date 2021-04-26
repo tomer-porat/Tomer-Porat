@@ -3,4 +3,5 @@
 B.Sc computer science student, 2nd years in The Academic College of Tel Aviv-Yaffo. 
 
 I've built a few projects by myself and I'm looking for a role where I can grow and learn from other experienced team members.
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&theme=<THEME_NAME>" />
